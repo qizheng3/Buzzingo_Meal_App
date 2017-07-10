@@ -1,0 +1,103 @@
+{
+  "recipes": [
+    {
+      "title": "Chow Mein",
+      "image" : "http://picturetherecipe.com/wp-content/uploads/2014/11/Chow-Mein-by-PictureTheRecipe-750x497.jpg",
+      "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
+      "description": "While slices of Chinese sausage are good in any stir-fry, my favorite way to use them is in a rice or noodle dish, so the",
+      "servings": 4,
+      "dietLabel": "5",
+      "ingredientLines" : [ "4 baby chickens (poussins) or cornish hens (about 1 1/4 pounds each), or 4 chicken breast halves", "3 lemons, plus wedges for garnish", "4 cloves garlic, peeled and smashed", "1 tablespoon crushed red-pepper flakes, or to taste", "1 tablespoon finely chopped fresh thyme", "1 tablespoon finely chopped fresh rosemary", "1/2 cup olive oil", "Salt, to taste" ]
+    },
+    {
+      "title": "Fried Rice",
+      "image" : "http://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/48/34/21/picsJktce.jpg",
+      "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "description": "",
+      "servings": 4,
+      "dietLabel": "6",
+      "ingredientLines" : [ "2 or 3 links of chineses sausage, cut into 1/4 inch slices", "4 cloves garlic, minced", "4 cups cold cooked rice", "2 tablespoons light soy sauce", "1/2 teaspoon salt", "1/4 teaspoon sugar", "1/4 teaspoon white pepper", "To garnish:", "Finely chopped green onion or cilantro" ]
+    },
+
+    {
+      "title": "Black Pepper Chicken ",
+      "image" : "http://dinnerthendessert.com/wp-content/uploads/2016/01/Panda-Express-Black-Pepper-Chicken-HS.jpg",
+      "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "description": "The sweet heat from the Chinese five-spice powder may not be what you typically think of in terms of incendiary wings, and the crisp skin comes from the blast of a hot oven rather than the splattering of hot oil. Yet we’re quite, quite taken with them all the same. Wingdings for dinner.",
+      "servings": 4,
+      "dietLabel": "6",
+      "ingredientLines" : [ "40 chicken wing pieces, or 20 whole chicken wings", "2 tablespoons chinese five-spice powder", "1 tablespoon cayenne pepper", "Kosher salt and freshly ground black pepper", "1/3 to 1/2 cup chopped fresh cilantro leaves", "1/4 cup light or regular sour cream", "1/4 cup mayonnaise", "1/4 cup plain yogurt", "Juice 1/2 lemon (or why not try lime?)" ]
+    },
+
+    {
+      "title": "Kung Pao Chicken ",
+      "image" : "http://dinnerthendessert.com/wp-content/uploads/2015/09/Kung-Pao-Chicken-Small-680x454.jpg",
+      "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
+      "description": "A superquick family favourite - fab for barbeques.",
+      "servings": 4,
+      "dietLabel": "5",
+      "ingredientLines" : [ "1.0 tbsp clear honey", "1.0 tbsp vinegar (you can use cider, malt or wine)", "100.0ml hoisin sauce", "2.0 tbsp soy sauce", "12 meaty pork ribs", "1.0 tsp chinese five-spice powder" ]
+    },
+
+    {
+      "title": "Grilled Teriyaki Chicken",
+      "image" : "http://3.bp.blogspot.com/-MnZqGr5Cnjg/UiGU2BkmPSI/AAAAAAAAXoE/DNb0ehaztPQ/s1600/panda-express-grilled-chicken-teriyaki-01.JPG",
+      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
+      "description": "Rice cake, called tteok in Korean, is a much-loved traditional dish with many many variations. No festival day, anniversary, or celebrations is complete without them. They are very chewy, and may be an acquired taste, but once you get hooked you'll crave them all the time.",
+      "servings": 4,
+      "dietLabel": "5",
+      "ingredientLines" : [ "6 to 8 fresh long rice cake sticks, or 20 smaller rice cake sticks", "For the sauce:", "3 tablespoons korean chili pepper paste", "3 to 4 tablespoons light soy sauce, depending on saltiness", "1 teaspoon sugar", "1 teaspoon rice vinegar", "Roasted sesame seeds to garnish" ]
+
+    },
+
+    {
+      "title": "Mushroom Chicken ",
+      "image" : "http://dinnerthendessert.com/wp-content/uploads/2015/07/Mushroom-Chicken1.jpg",
+      "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
+      "description": "Don’t let the name scare you. It’s a really simple dessert — usually made with a base of cake mix + fruit filling — where, true to its name, you can dump the ingredients into a pan, give it a stir, and bake.",
+      "servings": 12,
+      "dietLabel": "8",
+      "ingredientLines" : [ "1 can (21 oz.) cherry pie filling", "1 can (15 oz.) crushed pineapple", "1 box (about 18 oz.) yellow or white cake mix", "1 stick margarine", "½ sticks butter", "Whipped cream" ]
+    },
+
+    {
+      "title": "Five Flavor Shrimp",
+      "image" : "https://i1.wp.com/www.theimpulsivebuy.com/wordpress/wp-content/uploads/2016/03/Panda-Express-Pacific-Chili-Shrimp.jpg",
+      "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
+      "description": "To be served warm, when they're nice and chewy, with jam or with strawberries and cream. When cooled and left unadorned, they become crisp and buttery sugar cookies.",
+      "servings": 42,
+      "dietLabel": "9",
+      "ingredientLines" : [ "2 1/2 cups self-rising white lily or cake flour", "2 sticks (1 cup) unsalted butter, softened", "1 1/2 cups sugar", "1 large egg, lightly beaten", "1 teaspoon vanilla" ]
+    },
+
+    {
+      "title": "Crispy Shrimp",
+      "image" : "https://s-media-cache-ak0.pinimg.com/736x/c8/d7/f4/c8d7f4131573ba52b4b87f9d6e8b2cb8.jpg",
+      "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
+      "description": "A warm homy dish",
+      "servings": 10,
+      "dietLabel": "6",
+      "ingredientLines" : [ "200-250 g pretzels", "150 ml hot milk", "1 tbsp butter", "30 g bacon, finely chopped", "1 x onion, finely chopped", "2 x eggs", "Fresh parsley, chopped", "Salt", "Freshly ground black pepp", "Nutmeg", "1 tbsp butter for creamed chanterelle mushroom sauce", "1-2 x shallots", "250 g chanterelle mushrooms", "100-200 ml vegetable broth", "100 ml heavy cream", "2 tbsp sherry", "Salt and freshly ground black pepp", "Fresh chives, chopped for decoration" ]
+    },
+
+    {
+      "title": "Beijing BeefTM",
+      "image" : "http://dinnerthendessert.com/wp-content/uploads/2017/02/Panda-Express-Beijing-Beef.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
+      "description": "The resulting candy corn slurry is certainly one of those dishes that straddles the line between awful and awesome: that is to say, you might just like it, but you probably wouldn't confess that to your foodie friends.",
+      "servings": 6,
+      "dietLabel": "4",
+      "ingredientLines" :[ "1 cup cream or half and half", "2 tablespoons butter", "2 tablespoons instant vanilla pudding mix", "1 bag (11 ounces) candy corn" ]
+    },
+
+    {
+      "title": "Buttermilk Creams with Strawberries",
+      "image" : "https://s-media-cache-ak0.pinimg.com/236x/e8/b2/b2/e8b2b26f97f914121d5e9d6af1ed72e2.jpg",
+      "url": "http://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
+      "description": "Whipped cream gives these no-bake eggless custards a delicate texture. Don't worry if the mixture forms clumps at first -- it will come together with gentle folding.",
+      "servings": 8,
+      "dietLabel": "5",
+      "ingredientLines" : [ "1 1/4 teaspoons unflavored gelatin (from a 1/4-ounce envelope)", "3/4 cup sugar", "1 cup low-fat buttermilk", "1 1/2 cups heavy cream", "1 pound strawberries, hulled and quartered", "1 teaspoon fresh lemon juice" ]
+    }
+  ]
+}
