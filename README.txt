@@ -8,7 +8,7 @@ There are four main objectives we want to achieve.
 4) Finally, we want to help students better manage their diet by providing effective food nutrition profiling, and useful little tools such as daily calorie and essential nutrient
 calculator.
 
-There is a demo vedio to demonstrate the functionality of the App. Check it out :) 
+There is a demo video to demonstrate the functionality of the App. Check it out :) 
 
 Hope you find it useful!
 
